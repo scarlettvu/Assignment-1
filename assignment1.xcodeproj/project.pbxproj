@@ -16,7 +16,6 @@
 		062173B6297D54F2009A7E18 /* assignment1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062173B5297D54F2009A7E18 /* assignment1Tests.swift */; };
 		062173C0297D54F2009A7E18 /* assignment1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062173BF297D54F2009A7E18 /* assignment1UITests.swift */; };
 		062173C2297D54F2009A7E18 /* assignment1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062173C1297D54F2009A7E18 /* assignment1UITestsLaunchTests.swift */; };
-		062173CF297D5750009A7E18 /* marcelo-villalobos-qH635B_agHg-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 062173CE297D5750009A7E18 /* marcelo-villalobos-qH635B_agHg-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		062173BB297D54F2009A7E18 /* assignment1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = assignment1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		062173BF297D54F2009A7E18 /* assignment1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment1UITests.swift; sourceTree = "<group>"; };
 		062173C1297D54F2009A7E18 /* assignment1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment1UITestsLaunchTests.swift; sourceTree = "<group>"; };
-		062173CE297D5750009A7E18 /* marcelo-villalobos-qH635B_agHg-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "marcelo-villalobos-qH635B_agHg-unsplash.jpg"; path = "../../../../Downloads/marcelo-villalobos-qH635B_agHg-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				062173A7297D54F1009A7E18 /* Assets.xcassets */,
 				062173A9297D54F1009A7E18 /* LaunchScreen.storyboard */,
 				062173AC297D54F1009A7E18 /* Info.plist */,
-				062173CE297D5750009A7E18 /* marcelo-villalobos-qH635B_agHg-unsplash.jpg */,
 			);
 			path = assignment1;
 			sourceTree = "<group>";
@@ -234,7 +231,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				062173CF297D5750009A7E18 /* marcelo-villalobos-qH635B_agHg-unsplash.jpg in Resources */,
 				062173AB297D54F1009A7E18 /* LaunchScreen.storyboard in Resources */,
 				062173A8297D54F1009A7E18 /* Assets.xcassets in Resources */,
 				062173A6297D54F0009A7E18 /* Main.storyboard in Resources */,
